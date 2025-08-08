@@ -1,78 +1,128 @@
-# Data Analysis and Visualization - Course Overview
+# MIS 6326 – Data Analysis and Visualisation (DS)
 
-Welcome to the course on **Data Analysis and Visualization**!  
-This course introduces foundational skills for working with data, focusing on both Python and R, with practical applications in tools like Jupyter, RStudio, and Tableau.
+**Level:** MIS Year 2  
+**Location:** Lubaga  
+**Lecture Hours:** 45  
+**Practical Hours:** 30  
+**Credit Units:** 4  
 
 ---
 
-## 📅 Course Schedule
+## Course Description  
+Covers foundational principles and hands-on techniques for analyzing data and presenting it visually for decision-making.
 
-### **Week 1 (Aug 8–9)**  
+---
+
+## Course Objectives  
+Students will learn to:  
+- Understand core concepts of data analysis and visualization  
+- Conduct data exploration and preprocessing  
+- Perform statistical analysis  
+- Develop visualizations  
+- Apply ML to data analysis  
+- Use Python and R for data analytics  
+- Address data ethics and interpretation  
+
+---
+
+## Learning Outcomes  
+Students should be able to:  
+- Use data visualization tools effectively  
+- Conduct EDA and statistical analysis  
+- Apply ML techniques to datasets  
+- Create visual dashboards (e.g., with Tableau)  
+- Tackle real-world business problems with data  
+- Discuss emerging trends in data analytics  
+
+---
+
+## Indicative Content  
+- Introduction to Data and Visualization Tools  
+- EDA: Descriptive statistics, handling missing data  
+- Statistical Analysis: Hypothesis testing, regression  
+- Visualization Techniques: Graph types, dashboards  
+- ML for Data Analysis  
+- Data Ethics and Interpretation  
+- Real-world Applications and Case Studies  
+
+---
+
+## Assessment  
+- Coursework: 50%  
+- Final Exam: 50%  
+- Pass mark: 60%  
+
+---
+
+## Course Delivery Plan: 6 Weeks (Aug 8 – Sept 15, 2025)  
+**Total Contact Hours:** 60 (45 Lecture + 30 Practical hours)  
+**Delivery Mode:** Blended (in-person + online)  
+
+### Weekly Timetable Slots:  
+- **Friday:** 5:00 PM – 9:00 PM → 4 hours  
+- **Saturday Morning:** 9:00 AM – 11:00 AM → 2 hours  
+- **Saturday Afternoon:** 12:00 PM – 6:00 PM → 6 hours  
+- **Total per week:** 12 hours × 6 weeks = 72 available hours  
+
+---
+
+## Weekly Plan Breakdown
+
+### Week 1 (Aug 8–9)  
 **Theme:** Foundations of Data Analysis & Visualization  
-- Introduction to the course, goals, and assessment
-- Overview of tools: Python, R, Tableau
-- Key concepts: data types, variables, data use in decision-making
-- Software installations and environment setup  
-**Practical:** Hands-on with Jupyter Notebook, RStudio, and exploring sample datasets.
+- Introduction to course & tools (Python, R, Tableau)  
+- Concepts: data types, variables, decision-making use  
+- Software installations + environment setup  
+- **Practical:** Hands-on with Jupyter, RStudio, sample datasets  
+
+### Week 2 (Aug 15–16)  
+**Theme:** Data Exploration & Preprocessing  
+- Descriptive statistics, missing data, normalization  
+- EDA techniques  
+- **Practical:** Cleaning and transforming real-world datasets (Python/Pandas, R/tidyverse)  
+
+### Week 3 (Aug 22–23)  
+**Theme:** Statistical Analysis for Insights  
+- Inferential statistics, hypothesis testing  
+- Regression, correlation, probability distributions  
+- **Practical:** Stats in Python (Scipy, Statsmodels) and R  
+
+### Week 4 (Aug 29–30)  
+**Theme:** Data Visualization Principles + Tools  
+- Visualization theory (color, design, chart types)  
+- Matplotlib, Seaborn, ggplot2  
+- **Practical:** Create visualizations using Python and R  
+- Mini project briefing  
+
+### Week 5 (Sept 5–6)  
+**Theme:** Advanced Visualization + Machine Learning  
+- Interactive dashboards (Plotly, Tableau)  
+- Intro to ML (supervised vs unsupervised), feature engineering  
+- **Practical:** Dashboard creation + ML using scikit-learn / R  
+
+### Week 6 (Sept 12–13)  
+**Theme:** Ethics, Business Decision-Making, & Trends  
+- Data ethics, fairness, responsible communication  
+- KPIs, BI tools, strategy  
+- Trends: AI-powered analytics, augmented analytics  
+- Project completion & presentation prep  
 
 ---
 
-### **Week 2 (Aug 15–16)**  
-**Theme:** Data Wrangling with Python & R  
-- Data importing (CSV, Excel, JSON)
-- Data cleaning: handling missing values, type conversions
-- Data transformation and filtering  
-**Practical:** Pandas & dplyr operations on real datasets
+## Final Practical Assessment + Exam  
+- **Exam Date:** Sept 21st, 2025  
+- **Format:** 50% Coursework (projects, practicals) + 50% Written Exam  
+- Present final group projects + submit reports  
 
 ---
 
-### **Week 3 (Aug 22–23)**  
-**Theme:** Exploratory Data Analysis (EDA)  
-- Descriptive statistics and summary measures
-- Grouping, aggregation, pivoting
-- Handling outliers and distributions  
-**Practical:** Exploratory analysis using `pandas`, `ggplot2`, and `matplotlib`
+## Coursework Breakdown Suggestion  
 
----
+| Component          | Weight |
+|--------------------|--------|
+| Weekly Practicals   | 20%    |
+| Midterm Assignment  | 10%    |
+| Final Project & Report | 20% |
+| Final Exam         | 50%    |
+| **Total**          | **100%** |
 
-### **Week 4 (Aug 29–30)**  
-**Theme:** Data Visualization Techniques  
-- Types of plots: bar, line, histograms, scatter, boxplots
-- Plotting libraries: Matplotlib, Seaborn (Python); ggplot2 (R); Tableau basics  
-**Practical:** Build visual dashboards in Tableau and Python/R notebooks
-
----
-
-### **Week 5 (Sep 5–6)**  
-**Theme:** Applied Data Analysis Projects  
-- Mini-projects: Data storytelling & presentation
-- Comparing findings between tools (Python, R, Tableau)
-- Peer review and feedback  
-**Practical:** Complete a mini-project from data import to visualization
-
----
-
-## 🛠 Tools Used
-- Python 3.x (Jupyter Notebooks)
-- R (RStudio)
-- Tableau Public
-- Pandas, Matplotlib, Seaborn, ggplot2, dplyr
-
----
-
-## 📚 Resources
-Slides, notebooks, datasets, and other materials for each week are available in the respective folders:
-- `/Week1_Foundations/`
-- `/Week2_Wrangling/`
-- `/Week3_EDA/`
-- `/Week4_Visualization/`
-- `/Week5_Project/`
-
----
-
-## 💬 Contact & Support
-For questions or feedback, please reach out to the course instructor via [Email] or on the course forum.
-
----
-
-Happy analyzing! 📊
